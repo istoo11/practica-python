@@ -1,0 +1,6 @@
+### Contenido de `requirements.txt`
+
+```text
+jupyterlab>=4.2
+numpy>=1.26
+pandas>=2.2
